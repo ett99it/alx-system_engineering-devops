@@ -3,7 +3,7 @@
 ## 504 Error while accessing a given URL
 
 <p align="center">
-<img src= width=100% height=100% />
+<img src="https://github.com/ett99it/alx-system_engineering-devops/blob/main/0x19-postmortem/image.gif?raw=true" width=100% height=100% />
 </p>
 
 ### Incident report for [504 error / Site Outage]
